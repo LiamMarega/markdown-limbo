@@ -4,7 +4,8 @@
 Limboteams
 nace con la intención de formar un equipo que crea fervientemente en el objetivo de sumar más personas en el limbo y quieran crear, organizar, desarrollar, diseñar, aprender, enseñar, amar esta pasión con la cual se inició este proyecto.
 
-![Capture-removebg-preview](https://user-images.githubusercontent.com/86364396/216601512-5eb217c7-80c8-4fdc-8b83-bc4ffbb2da44.png)
+
+![Capture](https://user-images.githubusercontent.com/86364396/216601912-dc28c52e-6413-4f3a-8e02-00f4b64c8fc5.PNG)
 
 
  <img  src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" style="max-width: 100%; display: inline-block;" />
