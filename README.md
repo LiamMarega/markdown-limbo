@@ -2,7 +2,7 @@
 
 ## <img  src="https://www.limboteams.com/assets/img/icons/logo.png" style="max-width: 100%; display: inline-block;" />
 Limboteams
-Nace con la intención de formar un equipo que crea fervientemente en el objetivo de sumar más personas en el limbo y quieran crear, organizar, desarrollar, diseñar, aprender, enseñar, amar esta pasión con la cual se inició este proyecto.
+nace con la intención de formar un equipo que crea fervientemente en el objetivo de sumar más personas en el limbo y quieran crear, organizar, desarrollar, diseñar, aprender, enseñar, amar esta pasión con la cual se inició este proyecto.
 
 
  <img  src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" style="max-width: 100%; display: inline-block;" />
