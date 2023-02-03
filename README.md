@@ -10,4 +10,11 @@ nace con la intención de formar un equipo que crea fervientemente en el objetiv
 
 
  <img  src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" style="max-width: 100%; display: inline-block;" />
+ [![Gmail Icon](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](https://mail.google.com/)
+
+
+
+  <img  src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" style="max-width: 100%; display: inline-block;" /> 
+ 
+ 
  
