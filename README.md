@@ -1,6 +1,9 @@
 
 
 
+## ![logo limbo](https://user-images.githubusercontent.com/86364396/216613557-555c01f2-dac5-42c4-9806-f3fd567a7a6a.png)![image (2)](https://user-images.githubusercontent.com/86364396/216613388-3ad7c7f0-3afe-4db1-b7fc-913224b6096f.png)
+
+
 ## <img  src="https://www.limboteams.com/assets/img/icons/logo.png" style="max-width: 100%; display: inline-block;" />![image (1)](https://user-images.githubusercontent.com/86364396/216612652-922c22b4-0d8b-496a-8dba-4b415df8f19e.png)
 Limboteams
 nace con la intención de formar un equipo que crea fervientemente en el objetivo de sumar más personas en el limbo y quieran crear, organizar, desarrollar, diseñar, aprender, enseñar, amar esta pasión con la cual se inició este proyecto.
