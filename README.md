@@ -26,6 +26,8 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 - Universum Pos
 - Advantis.AI
 - ADAMO ID
+![giphy](https://user-images.githubusercontent.com/86364396/217559665-fa503b4a-8fc5-488f-85e9-84f9d4aae416.gif)
+
 
 ### &nbsp;&nbsp;
 #  Apoyado por personas reales
