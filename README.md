@@ -25,7 +25,7 @@ Limboteams nace para sacar adelante proyectos que están en el limbo y que aún 
 proyectos que suman al cliente para ver su idea plasmada en realidad.
 
 
- ![people-removebg-preview](https://user-images.githubusercontent.com/86364396/217533716-117d5c20-63f0-4d8b-8c3c-a35c5ef4bb38.png)
+![people-removebg-preview (1)](https://user-images.githubusercontent.com/86364396/217534938-792054be-adb0-44d5-b92b-25d6a291b2f7.png)
 
  
  
