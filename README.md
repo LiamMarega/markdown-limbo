@@ -20,6 +20,11 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
  
 <img src="https://user-images.githubusercontent.com/86364396/216610749-482d9e9f-232c-4048-9f7b-467220b15703.svg" height="15" />&nbsp; https://limboteams.com
 
+# Algunos de nuestros poyectos
+- FMoney
+- Universum Pos
+- Advantis.AI
+- ADAMO ID
 
 
 #  Apoyado por personas reales
