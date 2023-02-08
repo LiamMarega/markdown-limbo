@@ -27,7 +27,7 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 - Advantis.AI
 - ADAMO ID
 
-
+### &nbsp;&nbsp;
 #  Apoyado por personas reales
 Limboteams nace para sacar adelante proyectos que están en el limbo y que aún no son tangibles,
 proyectos que suman al cliente para ver su idea plasmada en realidad.
