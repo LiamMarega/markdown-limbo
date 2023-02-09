@@ -24,10 +24,13 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 
 
 # Algunos de nuestros poyectos
-- <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="50" style="border-radius: 30px;" />FMoney
-- Universum Pos
+- <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="50" style="border-radius: 300px;" />FMoney
+- <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="50" style="border-radius: 300px;" />Universum Pos
 - Advantis.AI
-- ADAMO ID
+- <img src="https://user-images.githubusercontent.com/86364396/217829698-e05c9071-e5e8-41dc-825f-61b6773fc176.png" height="50" style="border-radius: 300px;" />ADAMO ID
+- <img src="https://user-images.githubusercontent.com/86364396/217829813-36e04414-a033-4b6c-b0eb-9dd963fe9d17.png" height="50" style="border-radius: 300px;" />DarXpres
+- <img src="https://user-images.githubusercontent.com/86364396/217829942-c91fbd9e-9e8c-40ca-8dfe-9a369cb2ec19.png" height="50" style="border-radius: 300px;"Clish
+
 
 
 
