@@ -24,7 +24,7 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 
 
 # Algunos de nuestros poyectos
-- <img"https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="50" style="border-radius: 50%;" />FMoney
+- <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="50" style="border-radius: 50%;" />FMoney
 - Universum Pos
 - Advantis.AI
 - ADAMO ID
