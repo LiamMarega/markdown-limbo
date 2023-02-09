@@ -17,8 +17,8 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
  
  
  [![Gmail Icon](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:limboteams@gmail.com)&nbsp; &nbsp;  [![Linkedin Icon](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/company/limboteams/)&nbsp; &nbsp; [![Facebook Icon](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)](https://www.facebook.com/limbo.limbo.54584)&nbsp; &nbsp;
- <img src="https://user-images.githubusercontent.com/86364396/217893425-53f30779-e480-4ac8-8fa0-82236936fa67.svg" width="50" />
-[![Instagram Icon](https://user-images.githubusercontent.com/86364396/217893425-53f30779-e480-4ac8-8fa0-82236936fa67.svg)](https://www.facebook.com/limbo.limbo.54584)&nbsp; &nbsp;
+ 
+[![Instagram Icon]<img src="https://user-images.githubusercontent.com/86364396/217893425-53f30779-e480-4ac8-8fa0-82236936fa67.svg" width="50" />](https://www.facebook.com/limbo.limbo.54584)&nbsp; &nbsp;
 
 
 
