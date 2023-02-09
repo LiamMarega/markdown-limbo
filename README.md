@@ -23,7 +23,7 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 &nbsp;&nbsp;
 
 
-# Algunos de nuestros poyectos
+# Algunos de nuestros proyectos
 -  <img src="https://user-images.githubusercontent.com/86364396/217831497-c6937032-0a61-4ec6-b719-1e3bb7a29630.gif" height="30" style="border-radius: 300px;" />
     <a href='https://fmoney.finance' target="_blank">FMoney<a/>
 - <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="30" style="border-radius: 300px;" /> 
