@@ -27,11 +27,15 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 -  <img src="https://user-images.githubusercontent.com/86364396/217831497-c6937032-0a61-4ec6-b719-1e3bb7a29630.gif" height="30" style="border-radius: 300px;" />
     <a href='https://fmoney.finance' target="_blank">FMoney<a/>
 - <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="30" style="border-radius: 300px;" /> 
-  <a href='https://fmoney.finance' target="_blank">Universum Pos<a/>
-- <img src="https://user-images.githubusercontent.com/86364396/217830786-218a9ea9-bde8-4d1c-8404-ca9fa1e21938.svg" height="30" style="border-radius: 300px;" /> Advantis.AI
-- <img src="https://user-images.githubusercontent.com/86364396/217829698-e05c9071-e5e8-41dc-825f-61b6773fc176.png" height="30" style="border-radius: 300px;" /> ADAMO ID
-- <img src="https://user-images.githubusercontent.com/86364396/217829813-36e04414-a033-4b6c-b0eb-9dd963fe9d17.png" height="30" style="border-radius: 300px;" /> DarXpres
-- <img src="https://user-images.githubusercontent.com/86364396/217829942-c91fbd9e-9e8c-40ca-8dfe-9a369cb2ec19.png" height="30" style="border-radius: 300px;" /> Clish
+  <a href='https://web.uposmail.com/#/' target="_blank">Universum Pos<a/>
+- <img src="https://user-images.githubusercontent.com/86364396/217830786-218a9ea9-bde8-4d1c-8404-ca9fa1e21938.svg" height="30" style="border-radius: 300px;" />   
+   <a href='https://reader.advantis.ai' target="_blank">Advantis.AI<a/> 
+- <img src="https://user-images.githubusercontent.com/86364396/217829698-e05c9071-e5e8-41dc-825f-61b6773fc176.png" height="30" style="border-radius: 300px;" /> 
+    <a href='[https://reader.advantis.ai](https://adamo-client-qa.limboteams.com/#/)' target="_blank">ADAMO ID<a/>
+- <img src="https://user-images.githubusercontent.com/86364396/217829813-36e04414-a033-4b6c-b0eb-9dd963fe9d17.png" height="30" style="border-radius: 300px;" />    
+     <a href='#' target="_blank">DarXpres<a/>
+- <img src="https://user-images.githubusercontent.com/86364396/217829942-c91fbd9e-9e8c-40ca-8dfe-9a369cb2ec19.png" height="30" style="border-radius: 300px;" /> 
+      <a href='#' target="_blank">Clish<a/>
 
 
 
