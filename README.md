@@ -24,7 +24,7 @@ Comencemos lo que define el Limbo; Este se refiere cuando una persona está desc
 
 
 # Algunos de nuestros poyectos
-- <a href='https://www.instagram.com/limboteams/' target='_blank' style="width: 100%; display: flex;"> <img src="https://user-images.githubusercontent.com/86364396/217831497-c6937032-0a61-4ec6-b719-1e3bb7a29630.gif" height="30" width="50" style="border-radius: 300px;" /> FMoney <a/>
+-  <img src="https://user-images.githubusercontent.com/86364396/217831497-c6937032-0a61-4ec6-b719-1e3bb7a29630.gif" height="30" width="50" style="border-radius: 300px;" /><a href='https://www.instagram.com/limboteams/' target='_blank' style="width: 100%; display: flex; "> FMoney <a/>
 - <img src="https://user-images.githubusercontent.com/86364396/217828858-4499489d-62f4-4e74-a087-e0576e483d4c.png" height="30" style="border-radius: 300px;" /> Universum Pos
 - <img src="https://user-images.githubusercontent.com/86364396/217830786-218a9ea9-bde8-4d1c-8404-ca9fa1e21938.svg" height="30" style="border-radius: 300px;" /> Advantis.AI
 - <img src="https://user-images.githubusercontent.com/86364396/217829698-e05c9071-e5e8-41dc-825f-61b6773fc176.png" height="30" style="border-radius: 300px;" /> ADAMO ID
